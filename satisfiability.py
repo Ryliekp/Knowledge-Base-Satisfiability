@@ -6,7 +6,7 @@ description: Given a file containing a knowledge base converted to CNF,
 
 run command: python3 satisfiability.py filename.cnf
 
-author: Rylie Platt, rkp6174
+author: Rylie Platt
 """
 import sys
 from dataclasses import dataclass
